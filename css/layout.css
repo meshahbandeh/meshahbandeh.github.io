@@ -320,6 +320,7 @@ ul#nav li.current a {
 
 #publications .publications-item {
 	color: #0f0f0f;
+	font-family: 'merriweather-regular';
 	font: 16px/20px 'merriweather-regular', sans-serif;
 	letter-spacing: 1px;
 	border-bottom: 1px solid #a5a5a5;
@@ -332,6 +333,7 @@ ul#nav li.current a {
 }
 
 #publications .publications-item .pub-name {
+	font-family: 'merriweather-bold';
 	font: 14px/20px 'merriweather-bold', sans-serif;
 }
 
@@ -342,6 +344,7 @@ ul#nav li.current a {
 }
 
 #publications .publications-item em {
+	font-family: 'merriweather-bold';
 	font: 16px/20px 'merriweather-bold', serif;
 }
 
@@ -696,11 +699,13 @@ footer .social-links li:first-child {
 }
 
 #proposals h2 {
+	font-family: 'merriweather-light';
 	font: 20px/20px 'merriweather-bold', sans-serif;
 	color: #d6d6d6;
 }
 
 #proposals .proposals-item {
+	font-family: 'merriweather-light';
 	font: 16px/20px 'merriweather-light', sans-serif;
 	letter-spacing: 1px;
 	border-bottom: 1px solid #a5a5a5;
@@ -709,6 +714,7 @@ footer .social-links li:first-child {
 }
 
 #proposals em {
+	font-family: 'merriweather-bold';
 	font: 16px/20px 'merriweather-bold', sans-serif;
 }
 
