@@ -320,7 +320,7 @@ ul#nav li.current a {
 
 #publications .publications-item {
 	color: #0f0f0f;
-	font: 16px/20px 'merriweather-regular', sans-serif;
+	font: 16px/20px 'librebaskerville-regular', serif;
 	letter-spacing: 1px;
 	border-bottom: 1px solid #a5a5a5;
 	padding: 30px 50px;
@@ -332,7 +332,7 @@ ul#nav li.current a {
 }
 
 #publications .publications-item .pub-name {
-	font: 14px/20px 'merriweather-bold', sans-serif;
+	font: 14px/20px 'librebaskerville-bold', serif;
 }
 
 #publications .publications-item .pub-link {
@@ -342,7 +342,7 @@ ul#nav li.current a {
 }
 
 #publications .publications-item em {
-	font: 16px/20px 'merriweather-bold', serif;
+	font: 16px/20px 'librebaskerville-bold', serif;
 }
 
 .flexslider a:active,
@@ -696,12 +696,12 @@ footer .social-links li:first-child {
 }
 
 #proposals h2 {
-	font: 20px/20px 'merriweather-bold', sans-serif;
+	font: 20px/20px 'librebaskerville-bold', serif;
 	color: #d6d6d6;
 }
 
 #proposals .proposals-item {
-	font: 16px/20px 'merriweather-light', sans-serif;
+	font: 16px/20px 'librebaskerville-regular', serif;
 	letter-spacing: 1px;
 	border-bottom: 1px solid #a5a5a5;
 	padding: 30px 50px;
@@ -709,7 +709,7 @@ footer .social-links li:first-child {
 }
 
 #proposals em {
-	font: 16px/20px 'merriweather-bold', sans-serif;
+	font: 16px/20px 'librebaskerville-bold', serif;
 }
 
 #resume .item {
