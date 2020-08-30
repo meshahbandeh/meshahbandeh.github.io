@@ -288,7 +288,7 @@ ul#nav li.current a {
 
 #resume .info {
 	font: 16px/24px 'librebaskerville-italic', serif;
-	color: #6E7881;
+	color: #383838;
 	margin-bottom: 18px;
 	margin-top: 9px;
 }
@@ -310,7 +310,7 @@ ul#nav li.current a {
 }
 
 #publications h1 {
-	font: 20px/24px 'opensans-semibold', sans-serif;
+	font: 24px/24px 'opensans-semibold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	text-align: center;
@@ -320,7 +320,8 @@ ul#nav li.current a {
 
 #publications .publications-item {
 	color: #0f0f0f;
-	font: 16px/20px 'librebaskerville', serif;
+	font: 16px/20px 'merriweather-regular', sans-serif;
+	letter-spacing: 1px;
 	border-bottom: 1px solid #a5a5a5;
 	padding: 30px 50px;
 }
@@ -331,7 +332,7 @@ ul#nav li.current a {
 }
 
 #publications .publications-item .pub-name {
-	font: 14px/20px 'opensans-semibold', sans-serif;
+	font: 14px/20px 'merriweather-bold', sans-serif;
 }
 
 #publications .publications-item .pub-link {
@@ -341,7 +342,7 @@ ul#nav li.current a {
 }
 
 #publications .publications-item em {
-	font: 14px/20px 'librebaskerville-bold', serif;
+	font: 16px/20px 'merriweather-bold', serif;
 }
 
 .flexslider a:active,
@@ -527,7 +528,7 @@ footer .social-links li:first-child {
 	display: block;
 	width: 60px;
 	height: 60px;
-	background-color: #2a2a2a;
+	background-color: #767676;
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
 	-o-transition: all 0.2s ease-in-out;
@@ -672,4 +673,45 @@ footer .social-links li:first-child {
 
 .publications-cover {
    background: url(../images/publications.jpg) no-repeat center center fixed;
+}
+
+.proposals-cover {
+	background: url(../images/proposals.jpg) no-repeat center center fixed;
+}
+
+
+#proposals {
+	background: #2d2d2d;
+	padding-top: 90px;
+	padding-bottom: 60px;
+}
+
+#proposals h1 {
+	font: 24px/24px 'opensans-semibold', sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	text-align: center;
+	margin-bottom: 48px;
+	color: #9df356;
+}
+
+#proposals h2 {
+	font: 20px/20px 'merriweather-bold', sans-serif;
+	color: #d6d6d6;
+}
+
+#proposals .proposals-item {
+	font: 16px/20px 'merriweather-light', sans-serif;
+	letter-spacing: 1px;
+	border-bottom: 1px solid #a5a5a5;
+	padding: 30px 50px;
+	color: rgb(220, 220, 220);
+}
+
+#proposals em {
+	font: 16px/20px 'merriweather-bold', sans-serif;
+}
+
+#resume .item {
+	padding-top: 20px;
 }

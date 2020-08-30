@@ -106,7 +106,7 @@
 
 /*
  * Libre Baskerville
-================================================================================ */   
+================================================================================ */
 @font-face {
     font-family: 'librebaskerville-bold';
     src: url('fonts/librebaskerville/librebaskerville-bold-webfont.eot');
@@ -154,4 +154,26 @@
    src: url('fonts/opensans/OpenSans-Bold-webfont.svg#open_sansbold') format('svg');
    }
 
+}
+
+@font-face {
+    font-family: 'merriweather-bold';
+    src: url('fonts/merriweather/merriweather-bold.ttf');
+    src: url('fonts/merriweather/merriweather-bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'merriweather-regular';
+    src: url('fonts/merriweather/merriweather-regular.ttf');
+    src: url('fonts/merriweather/merriweather-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'merriweather-light';
+    src: url('fonts/merriweather/merriweather-light.ttf');
+    src: url('fonts/merriweather/merriweather-light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
